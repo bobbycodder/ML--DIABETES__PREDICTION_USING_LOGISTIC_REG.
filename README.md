@@ -41,4 +41,4 @@ __We’ll be using Python and some of its popular data science related packages.
 
 ***Follow along Jupyter Notebook{Predicting Stock Prices with Linear Regression.ipynb} for more!!***
 
- ***I hope you liked this project on Stock Price prediction using Python with machine learning by implementing the Linear Regression Model.***
+ ***I hope you liked this project on Stock Price prediction using Python with machine learning by implementing the Linear Regression Model***
